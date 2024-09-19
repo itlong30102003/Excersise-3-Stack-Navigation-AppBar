@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "176635448963",
+    "project_id": "exsersise2",
+    "storage_bucket": "exsersise2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176635448963:android:fc56c43139c77d3b1955b6",
+        "android_client_info": {
+          "package_name": "com.exsersise2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAyClngnq0evCfw86R-zjMWC6-ppmRWN0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
